@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# staking-community-version
-=======
 # Staking Community Version
 
 > **A Community Version DApp for Tokamak Network's Staking Service**
